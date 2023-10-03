@@ -2,7 +2,7 @@
 
 The main point of this was not to train a usefull or good machine learning algorithm,
 but rather to learn scikit's built in pipeline, storing models using pickle,
-and making a website with flask to interact with the model.
+and making a website with flask and HTML to interact with the model.
 
 Using data from Capital Bikeshare Washinton 2016, obtained from kaggle.com.
 
