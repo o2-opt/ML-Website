@@ -7,5 +7,6 @@ and making a website with flask to interact with the model.
 Using data from Capital Bikeshare Washinton 2016, obtained from kaggle.com.
 
 The app will launch a local website the will let the user input values for the ML model,
-and return a prediced number of cyclists in Washington that day, based on the users input. 
+and return a prediced number of cyclists in Washington that day, based on the users input.
+
 NOTE: that the point was to leaern scikit's pipeline and pickle, model itself is not a good model.
